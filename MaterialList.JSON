@@ -1,0 +1,564 @@
+[
+    {
+        "name": "Iron Ore",
+        "tag": "Resource",
+        "rarity": 0,
+        "icon": "iron_ore.png",
+        "value": 50,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Coal",
+        "tag": "Resource",
+        "rarity": 0,
+        "icon": "coal.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Wood",
+        "tag": "Resource",
+        "rarity": 0,
+        "icon": "wood.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Stone",
+        "tag": "Resource",
+        "rarity": 0,
+        "icon": "stone.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Leather",
+        "tag": "Resource",
+        "rarity": 0,
+        "icon": "leather.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Wool",
+        "tag": "Resource",
+        "rarity": 0,
+        "icon": "wool.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Silver ore",
+        "tag": "Resource",
+        "rarity": 1,
+        "icon": "coal.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Copper ore",
+        "tag": "Resource",
+        "rarity": 1,
+        "icon": "coal.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Silk",
+        "tag": "Resource",
+        "rarity": 1,
+        "icon": "silk.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Silver",
+        "tag": "Resource",
+        "rarity": 1,
+        "icon": "coal.png",
+        "value": 25,
+        "weight": 5,
+        "hasMixture": false
+    },
+
+
+    
+    
+    {
+        "name": "Anchovy",
+        "tag": "Fish",
+        "rarity": 0,
+        "icon": "anchovy.png",
+        "value": 10,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Sardine",
+        "tag": "Fish",
+        "rarity": 0,
+        "icon": "sardine.png",
+        "value": 15,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Seabass",
+        "tag": "Fish",
+        "rarity": 0,
+        "icon": "seabass.png",
+        "value": 20,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Shrimp",
+        "tag": "Fish",
+        "rarity": 0,
+        "icon": "shrimp.png",
+        "value": 10,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Clownfish",
+        "tag": "Fish",
+        "rarity": 1,
+        "icon": "clownfish.png",
+        "value": 30,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Crab",
+        "tag": "Fish",
+        "rarity": 1,
+        "icon": "crab.png",
+        "value": 20,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Great Scallop",
+        "tag": "Fish",
+        "rarity": 1,
+        "icon": "great_scallop.png",
+        "value": 25,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Hard Clam",
+        "tag": "Fish",
+        "rarity": 1,
+        "icon": "hard_clam.png",
+        "value": 15,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Hogfish",
+        "tag": "Fish",
+        "rarity": 1,
+        "icon": "hogfish.png",
+        "value": 40,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Silver Seabream",
+        "tag": "Fish",
+        "rarity": 1,
+        "icon": "silver_seabream.png",
+        "value": 25,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Angelfish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "angelfish.png",
+        "value": 40,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Barracuda",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "barracuda.png",
+        "value": 60,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Blue Surgeonfish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "blue_surgeonfish.png",
+        "value": 55,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Conger",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "conger.png",
+        "value": 45,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Cushion Starfish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "cushion_starfish.png",
+        "value": 35,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Flying Fish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "flying_fish.png",
+        "value": 40,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Hake",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "hake.png",
+        "value": 45,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Moonfish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "moonfish.png",
+        "value": 55,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Oyster",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "oyster.png",
+        "value": 30,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Porcupinefish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "porcupinefish.png",
+        "value": 50,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Puffer Fish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "puffer_fish.png",
+        "value": 50,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Sea Needle",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "sea_needle.png",
+        "value": 40,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Spadefish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "spadefish.png",
+        "value": 40,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Starfish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "starfish.png",
+        "value": 25,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Trumpetfish",
+        "tag": "Fish",
+        "rarity": 2,
+        "icon": "trumpetfish.png",
+        "value": 55,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Bluefin Tuna",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "bluefin_tuna.png",
+        "value": 120,
+        "weight": 3,
+        "hasMixture": false
+    },
+    {
+        "name": "Fire Goby",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "fire_goby.png",
+        "value": 70,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Moon Jellyfish",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "moon_jellyfish.png",
+        "value": 70,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Queen Angelfish",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "queen_angelfish.png",
+        "value": 90,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Ribbon Eel",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "ribbon_eel.png",
+        "value": 80,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Stingray",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "stingray.png",
+        "value": 95,
+        "weight": 3,
+        "hasMixture": false
+    },
+    {
+        "name": "Swordfish",
+        "tag": "Fish",
+        "rarity": 3,
+        "icon": "swordfish.png",
+        "value": 120,
+        "weight": 3,
+        "hasMixture": false
+    },
+    {
+        "name": "Anglerfish",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "anglerfish.png",
+        "value": 150,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Giant Moray Eel",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "giant_moray_eel.png",
+        "value": 140,
+        "weight": 3,
+        "hasMixture": false
+    },
+    {
+        "name": "Harlequin Snake Eel",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "harlequin_snake_eel.png",
+        "value": 135,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Longhorn Cowfish",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "longhorn_cowfish.png",
+        "value": 130,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Moorish Idol",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "moorish_idol.png",
+        "value": 150,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Nautilus",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "nautilus.png",
+        "value": 160,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Ocean Sunfish",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "ocean_sunfish.png",
+        "value": 200,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Red Scorpionfish",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "red_scorpionfish.png",
+        "value": 140,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Stonefish",
+        "tag": "Fish",
+        "rarity": 4,
+        "icon": "stonefish.png",
+        "value": 160,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Blue Crab",
+        "tag": "Fish",
+        "rarity": 5,
+        "icon": "blue_crab.png",
+        "value": 180,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Hairy Frogfish",
+        "tag": "Fish",
+        "rarity": 5,
+        "icon": "hairy_frogfish.png",
+        "value": 170,
+        "weight": 1,
+        "hasMixture": false
+    },
+    {
+        "name": "Humphead Wrasse",
+        "tag": "Fish",
+        "rarity": 5,
+        "icon": "humphead_wrasse.png",
+        "value": 190,
+        "weight": 4,
+        "hasMixture": false
+    },
+    {
+        "name": "Monkfish",
+        "tag": "Fish",
+        "rarity": 5,
+        "icon": "monkfish.png",
+        "value": 150,
+        "weight": 3,
+        "hasMixture": false
+    },
+    {
+        "name": "Nomad Jellyfish",
+        "tag": "Fish",
+        "rarity": 5,
+        "icon": "nomad_jellyfish.png",
+        "value": 160,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Squid",
+        "tag": "Fish",
+        "rarity": 5,
+        "icon": "squid.png",
+        "value": 120,
+        "weight": 2,
+        "hasMixture": false
+    },
+    {
+        "name": "Giant Cuttlefish",
+        "tag": "Fish",
+        "rarity": 6,
+        "icon": "giant_cuttlefish.png",
+        "value": 220,
+        "weight": 3,
+        "hasMixture": false
+    },
+    {
+        "name": "Giant Squid",
+        "tag": "Fish",
+        "rarity": 6,
+        "icon": "giant_squid.png",
+        "value": 300,
+        "weight": 6,
+        "hasMixture": false
+    },
+    {
+        "name": "Oarfish",
+        "tag": "Fish",
+        "rarity": 6,
+        "icon": "oarfish.png",
+        "value": 250,
+        "weight": 5,
+        "hasMixture": false
+    },
+    {
+        "name": "Shortfin Mako Shark",
+        "tag": "Fish",
+        "rarity": 6,
+        "icon": "shortfin_mako_shark.png",
+        "value": 220,
+        "weight": 6,
+        "hasMixture": false
+    },
+    {
+        "name": "Yeti Crab",
+        "tag": "Fish",
+        "rarity": 6,
+        "icon": "yeti_crab.png",
+        "value": 240,
+        "weight": 2,
+        "hasMixture": false
+    }
+]
