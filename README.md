@@ -20,6 +20,10 @@ Here is an example of what an item within the MaterialList.JSON might look like:
 
 Properties such as the item's weight, value, rarity, are all predetermined. The tag helps categorize materials such as "Fish," or "Resource," for sorting and various other purposes. While the icon name could be inferred, the JSON file ask for a direct name to reference. Finally, the hasMixture property was originally intended for the game's brewing system before the project was redefined. 
 
+### Improvements and Future?
+The future of this script would involve incorporating object models and a direct tie-in to recipes. Accomplishing this would probably be fairly simple, using FBX models, as they're quite compatible with Unity. As for a recipe tie-in, I would imagine a script that runs after this one, checking to see if the material is in the game before adding the item.
+
+
 ## About Searfarer
 "Searfarers" was originally envisioned as an open-world, top-down isometric RPG. However, after returning from other projects, the game's scope narrowed to focus on sailing where the player travels from dock to dock, shore to shore, and eventually across the grand sea of the world. Players would begin as humble rowboat fishermen as they eventually worked their way up to become merchants ferrying goods between distant ports.
 
